@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greeting
-        run: Echo "Hello World form LabEx"
+        run: echo "Hello World from LabEx"
